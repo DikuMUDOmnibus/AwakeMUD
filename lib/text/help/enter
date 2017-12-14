@@ -1,0 +1,10 @@
+ENTER
+
+Usage: ^gENTER <direction/vehicle>^n
+
+If you type 'enter' while you are outdoors, you'll enter any nearby shelter.
+You can also follow 'enter' with an argument; for example:
+^c< 10P 10M > 'enter window'^n
+
+Enter is also the command used to climb in and out of vehicles.
+

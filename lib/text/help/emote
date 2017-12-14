@@ -1,0 +1,18 @@
+EMOTE :
+
+Usage: ^gEMOTE <string>
+       :<string>^n
+
+Show people what you're feeling.  The shorthand is ":".
+
+It will display your name, then the string.  For example,
+if your name is "Root":
+
+^c< 10P 10M > emote is feeling very sad today.^n
+
+will display:
+
+Root is feeling very sad today.
+
+^WSee Also: SOCIALS^n
+

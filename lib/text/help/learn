@@ -1,0 +1,12 @@
+LEARN
+
+Usage: ^gLEARN <spell>^n
+
+In order to learn a spell, you need three things.  First, your magical rating
+must be above 0.  Second, you must have a spell formula.  Third, you must
+have a number of ^Wkarma^n points equal to the force of the desired spell.
+
+^c< 10P 10M > learn tactical nuke^n
+
+^WSee Also: CAST, CREATE, MAGIC, SPELLS, KARMA^n
+

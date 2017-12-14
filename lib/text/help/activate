@@ -1,0 +1,7 @@
+ACTIVATE
+
+Activate is used to personalize a credstick that currently has no owner.  The
+syntax is: "activate <name of credstick>".
+
+^WSee Also: CREDSTICKS, TRANSFER^n
+

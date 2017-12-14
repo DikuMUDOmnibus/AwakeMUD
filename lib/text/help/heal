@@ -1,0 +1,10 @@
+HEAL
+
+Usage: ^gCAST 'heal' <level> <target>^n
+
+Level is light/moderate/serious/deadly being the damage level you wish to
+repair.  Light = 1, moderate = 3, serious = 6, and deadly = 10, points of
+physical health.
+
+^WSee Also: CAST^n
+

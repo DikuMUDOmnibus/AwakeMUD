@@ -1,0 +1,12 @@
+GET TAKE
+
+If you find something interesting on the ground, you may use 'get' to pick
+it up.  'get' can also be used to extract items from containers.
+
+^c< 10P 10M > get gun corpse
+< 10P 10M > get all corpse
+< 10P 10M > get all all.bag
+< 10P 10M > get all.bread all.bag^n
+
+^WSee Also: DROP, PUT^n
+

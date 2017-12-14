@@ -1,0 +1,15 @@
+LOOK
+
+For studying your surroundings.
+
+Examples:
+^c< 10P 10M > look                                      
+< 10P 10M > look AT angel   (or just: look angel)
+< 10P 10M > look IN bag     
+< 10P 10M > look to south   (or just: look south)^n
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+
+^WSee Also: EXAMINE, READ^n
+

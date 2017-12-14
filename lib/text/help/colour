@@ -1,0 +1,21 @@
+COLOR
+
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you see.
+
+^c< 10P 10M > color off^n
+This command disables all color.
+
+^c< 10P 10M > color sparse
+< 10P 10M > color normal
+< 10P 10M > color complete^n
+
+These three commands turn color on to various levels.  Experiment to see
+which level suits your personal taste.
+
+Using color will slow down the speed at which you see messages VERY slightly.
+The effect is more noticable on slower connections.  Even if you have
+color turned on, non-colorized messages will not be slowed down at all.
+
+^WSee Also: ANSI COLOR^n
+

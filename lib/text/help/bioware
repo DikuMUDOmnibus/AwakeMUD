@@ -1,0 +1,16 @@
+BIOWARE
+
+Bioware is a type of organically grown equipment, much like Cyberware only
+it does not have an essence cost. There are various items of Bioware around
+in the game, all having strange side affects and advantages. The amount of
+Bioware you can have is measured by your "Body Index", which begins at 6.
+When you buy Bioware, your body value does not go down, it is simply used as
+a gauge. To measure what your body index is, add up the costs of all your
+bioware and subtract it from 6.
+
+The command ^RBioware^r will display any bioware you have currently installed.
+
+Bioware is notoriously incredibly expensive.
+
+^WSee Also: CYBERWARE, ESSENCE^n
+

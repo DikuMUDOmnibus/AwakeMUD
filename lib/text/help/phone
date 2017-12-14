@@ -1,0 +1,35 @@
+PHONE CALL HANGUP ANSWER TALK
+
+Phones, be they cellular, cybernetic, home or office phone 
+or public, all serve the same purpose as they do in real life.  
+Public phones function as the others, except you can not turn 
+them on or off, turn on or off the ringer, or dial into them 
+from another phone.  You must be carrying a phone, have a commlink 
+(cybernetic phone) installed, or be in a public phone to use 
+these commands.  Please note the useage of phones is IC only, and 
+the old tell system is now only used OOCly to communicate with 
+immortal staff members, although you no longer require a phone to use it.
+
+The commands for using a phone are as follows:
+phone <on|off|ring|silent>.
+
+"phone" with no arguments will show you the number of your 
+telephone, whether it is on or off, and whether it is set to 
+ring or is silent.  "phone on" and "phone off" turn the 
+phone on or off, depending on which of the two you type :)  
+"phone ring" sets the phone so that it will ring if someone calls 
+you, whereas "phone silent" will not, although the phone is 
+still turned on.
+
+hangup
+Hangs up the current call, whether you dialed someone else, 
+or they dialed you.
+
+answer
+Use this command to answer an incoming call from another person.
+
+talk <message>
+This is how you talk on a phone.  You must be engaged in a phone 
+call to use this command.
+
+See also: ^WTELL, RADIO, BROADCAST^n

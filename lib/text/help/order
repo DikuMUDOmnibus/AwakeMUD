@@ -1,0 +1,11 @@
+ORDER
+
+Usage: ^gORDER <character> <command>
+       ORDER followers <command>^n
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+
+^c< 10P 10M > order spirit sit
+< 10P 10M > order guard kill 2.guard^n
+

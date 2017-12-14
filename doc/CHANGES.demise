@@ -1,0 +1,60 @@
+06/26/2000 Demise
+- Fixed shoot bug.
+- Character creation no longer has weight limits, so as much starting
+   equipment can be chosen as nuyen to purchase it.
+
+06/29/2000 Demise
+- When you kill with a spell, the spell struct was freed and used later.
+- Fixed magic for "stun" type spells and use drain codes correctly.
+  (Made DRAIN_POWER and DRAIN_LEVEL(spell->drain) aliases).
+- Foci work correctly.
+- Magic pool is used (split half and half between success and drain).
+- Learning a spell of higher force than already known is possible.
+- Spell creation should work now.
+
+06/30/2000 Demise
+- Patched rent bug:
+  Removed rent by setting all rent costs to 0.  This is because some
+  places that write rent information don't write a value for the cost
+  per day, so cost is undefined and ends up being really large.
+- Changed buy/sell to default to cash if the customer has no credstick.
+- Reloading weapons no longer stops you from fighting and wasting a round.
+- Reload finds a clip in any of your containers.
+- Having a smartlink and lasersight now uses smartlink instead of laser.
+- Each phase uses 10 initiative, not 11.
+
+07/01/2000 Demise
+- Crack command now works.
+- Vincent now tells you how much the credstick was worth.
+- Recoil compensation gives you a bonus instead of a penalty.
+
+07/02/2000 Demise
+- Astral perception gives more detail on foci.
+- Fixed repeated messages when using non-existant doors.
+- Made projecting from perceiving possible.
+- stat obj now shows current condition
+- Duplicate Values0-9 removed.
+- If a spec proc is a shop, tells you which vnum.
+- show lodge/show library commands added.
+- various vnum commands should now show a * for objects in connected ares.
+- vnum commands work on short description now too, not just name.
+- recoil compensation gives a bonus instead of penalty
+- olc changed to remove the harmless "Are you really sure you want to
+   do this?" messages.  (quit and save/exit and abort for some).
+- spell/category/spirit foci can have types chosen when bonded.
+- spell locks can lock multi-word spells.
+- conjuring uses half spirit bonus for success, half for drain.
+- shops slowly regen nuyen.
+- fixed memory problem.  showing a capitaled version of a string caused
+   the string to be changed.
+- area spells don't crash the game.
+  
+07/09/2000 Demise
+- fixed a magic bug I introduced when spells don't have targets.  oops.
+- fixed a few matrix bugs.
+- hacking pool is now used
+- only have to get more successes than ICE, not beat it by security rating.
+
+07/11/2000 Demise
+- fixed act function to properly capitalize colored strings.
+

@@ -1,0 +1,98 @@
+#35500
+8 2 1
+35510 17 35543
+35508 19 -1
+35506 -1 -1
+35507 -1 -1
+35511 -1 -1
+35521 -1 -1
+4955 -1 -1
+35522 -1 -1
+1.00 1.00 0 0 10 35521 0
+0 24 0 0
+Order what you see, fool!~
+Shall I wait while you go get it?~
+I buy not such wretched things!~
+I have not such money!~
+Go get money, or pay in blood!~
+Turn over my %d nuyen!~
+Take this %d nuyen and be gone!~
+#35506
+3 0 1
+35506 -1 35512
+35507 -1 -1
+35508 -1 -1
+1.00 1.00 0 0 0 35506 0
+0 24 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough nuyen for that.~
+You don't have enough nuyen!~
+That'll be %d nuyen.~
+Here's your %d nuyen.~
+#35512
+6 0 1
+35510 -1 35516
+35512 -1 -1
+16236 -1 -1
+35511 -1 -1
+35513 -1 -1
+35514 -1 -1
+1.00 1.00 0 0 8 35512 0
+0 24 0 0
+We don't got it.~
+You don't got it.~
+We don't buy that.~
+I don't have enough nuyen for that.~
+You don't have enough nuyen!~
+That'll be %d nuyen.~
+Here's your %d nuyen.~
+#35527
+9 0 2
+3484 -1 35570
+1036 -1 35572
+13415 -1 -1
+31102 -1 -1
+16236 -1 -1
+35523 -1 -1
+9948 -1 -1
+35522 -1 -1
+35521 -1 -1
+1.00 1.00 0 0 8 35527 0
+0 24 0 0
+I don't have that in stock, sorry.~
+This bar does not purchase items, sorry.~
+This bar does not purchase items, sorry.~
+This bar does not purchase items, sorry.~
+You might want to check your wallet, that won't be enough.~
+That'll be %d nuyen.~
+Here's your %d nuyen.~
+#35533
+16 0 1
+35512 -1 35587
+35513 -1 -1
+17156 -1 -1
+4955 -1 -1
+9942 -1 -1
+2004 -1 -1
+17130 -1 -1
+35510 -1 -1
+35523 -1 -1
+35522 -1 -1
+4953 -1 -1
+5904 -1 -1
+5901 -1 -1
+9948 -1 -1
+13415 -1 -1
+14609 -1 -1
+1.20 0.25 0 0 8 35533 0
+0 24 0 0
+I ain't got that, drek for brains.~
+What ya tryin' ta sell me, drekhead?~
+I ain't interested.~
+Can't afford that today. Try again tomorrah!~
+Ya tryin' ta stiff me, slotface?!~
+That'll be %d nuyen.~
+Yeah, give ya %d nuyen fer that.  Thanks.~
+$~

@@ -1,0 +1,113 @@
+#9900
+8 4 1
+9999 5 9908
+9907 9 -1
+9908 27 -1
+668 28 -1
+936 -1 -1
+603 -1 -1
+878 -1 -1
+614 -1 -1
+1.10 0.80 0 0 0 9907 7
+4 22 0 0
+I ain't got that!  GO AWAY!~
+You ain't got that!  You got somethin' else?~
+I wouldn't buy dat if it were one of a kind and worth a million yen!~
+What do I look like, a fraggin' bank?!~
+You ain't got dat kinda munney!  Get da frag outta here!!~
+Gimme %d creds.~
+Here's ya %d creds.~
+#9901
+16 0 1
+9918 -1 9974
+9919 -1 -1
+9920 -1 -1
+9921 -1 -1
+9922 -1 -1
+9922 -1 -1
+9923 -1 -1
+9924 -1 -1
+9925 -1 -1
+9926 -1 -1
+9927 -1 -1
+9928 -1 -1
+9929 -1 -1
+9980 -1 -1
+9981 -1 -1
+9982 -1 -1
+1.50 0.50 1 0 0 9910 0
+0 24 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+#9902
+8 3 1
+638 5 9992
+936 27 -1
+882 28 -1
+955 -1 -1
+9933 -1 -1
+9934 -1 -1
+9935 -1 -1
+658 -1 -1
+1.30 0.30 1 0 2 9914 0
+3 21 3 21
+Aint got it.~
+You don't have that!  What are ya, blind?!~
+We don't buy that kind of drek here!~
+I ain't got that kinda yen.  What do I look like, Damian Knight?!~
+You ain't got enuff money!   Get the frag out of here, you slot!~
+That'll be %d creds.~
+Here's your %d creds.~
+#9903
+6 0 1
+9942 -1 9983
+9943 -1 -1
+9944 -1 -1
+9948 -1 -1
+9949 -1 -1
+9950 -1 -1
+1.00 1.00 1 0 0 9920 7
+0 24 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+#9909
+5 1 1
+300 24 9909
+301 -1 -1
+312 -1 -1
+319 -1 -1
+309 -1 -1
+1.30 0.30 1 0 6 9904 7
+10 22 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+#9943
+3 0 1
+9946 -1 9994
+9947 -1 -1
+9943 -1 -1
+1.14 1.00 3 0 0 9931 7
+0 24 0 0
+Ain't got that!~
+Wha?~
+I ain't buyin dat.~
+I ain't buyin that, slot!~
+Keep wastin my time slot, and I'll have Guido feed ya to Koloth.~
+%d rocks, pay up.~
+Here's da %d clams I owe yas.~
+$~

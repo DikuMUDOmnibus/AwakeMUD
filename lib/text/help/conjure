@@ -1,0 +1,25 @@
+CONJURE
+
+Usage: ^gCONJURE <force> <spirit/elemental>^n
+
+Hermetic ^Wmages^n can only conjure elementals, and must be in a hermetic library
+to do so.  ^WShamans^n can summon a variety of spirits, and exactly what
+spirits they can conjure depends on the type of environment they are in.
+
+Once conjured, spirits and elementals can be ^Wordered^n to perform certain
+tasks.  The number of tasks depends on the force of the spirit/elemental.
+Another thing to note is that taking a spirit outside of its natural domain
+will cause the spirit to be banished.
+
+Elementals:
+Air, Earth, Fire, Water.
+
+Spirits:
+City, Hearth, Field, Desert, Forest, Mountain, Prairie, Mist, Storm, Lake,
+River, Sea, Swamp.
+
+^c< 10P 10M > conjure 4 fire
+< 10P 10M > conjure 4 hearth^n
+
+^WSee Also: CONJURING, SORCERY, CAST, ORDER^n
+

@@ -1,0 +1,37 @@
+#500
+Keywords:	ticket monorail
+Name:	A SeaTac monorail ticket
+RoomDesc:$
+A forgotten monorail ticket is lying here.~
+LookDesc:$
+It reads, 'ADMIT ONE'.
+~
+Type:	Other
+WearFlags:	100000000000001
+ExtraFlags:	0
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	0
+	Barrier:	1
+	Cost:	15
+BREAK
+#501
+Keywords:	ticket monorail
+Name:	A Seattle monorail ticket
+RoomDesc:$
+A forgotten monorail ticket is lying here.~
+LookDesc:$
+Printed in black ink one side is "Seattle Monorail, Inc." 
+~
+Type:	Other
+WearFlags:	100000000000001
+ExtraFlags:	0
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	0
+	Barrier:	1
+	Cost:	20
+BREAK
+END

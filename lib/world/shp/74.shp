@@ -1,0 +1,89 @@
+#7400
+4 0 1
+7400 -1 7405
+7401 -1 -1
+7402 -1 -1
+7403 -1 -1
+1.00 0.00 0 2 8 7400 0
+0 24 0 0
+You want what?~
+Don't mess around, chummer.~
+I only sell coffee.~
+I only sell coffee.~
+It costs more than ya got, chummer.~
+That'll be %d.~
+Here ya go, %d nuyen.~
+#7401
+9 0 1
+7406 -1 7457
+7407 -1 -1
+640 -1 -1
+7409 -1 -1
+7410 -1 -1
+7411 -1 -1
+7412 -1 -1
+828 -1 -1
+961 -1 -1
+1.20 1.00 0 0 8 7407 0
+0 24 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+#7402
+5 0 1
+7415 -1 7452
+7416 -1 -1
+7417 -1 -1
+7418 -1 -1
+1112 -1 -1
+1.30 1.00 0 0 8 7408 0
+6 21 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+#7403
+4 0 1
+7419 -1 7458
+7420 -1 -1
+7421 -1 -1
+7422 -1 -1
+1.40 1.00 1 1 11 7409 0
+6 19 0 0
+We dont sell that kind of drivel here!~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+Hrmph!  Obviously you seem to think this is one of those low class stores!~
+That'll be %d creds.~
+Here's your %d creds.~
+#7404
+11 0 1
+401 -1 7460
+405 -1 -1
+406 -1 -1
+407 -1 -1
+413 -1 -1
+414 -1 -1
+415 -1 -1
+416 -1 -1
+417 -1 -1
+418 -1 -1
+419 -1 -1
+1.50 1.00 6 0 6 7410 0
+6 18 0 0
+Sorry, we don't have that.~
+You don't seem to have that.~
+We don't buy that.~
+I don't have enough creds for that.~
+You don't have enough creds!~
+That'll be %d creds.~
+Here's your %d creds.~
+$~

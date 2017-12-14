@@ -1,0 +1,19 @@
+WHO
+
+Usage: ^gWHO [sort] [quest] [pker] [immortal] [mortal]^n
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+sort       Sorts the players by status
+quest      Lists only questing players (those with their "quest" flag on)
+pker       Lists only those players with their "pker" flags on
+immortal   Lists those whose status exceeds or is builder
+mortal     Lists the players who have not (or do not want to) achieved
+           legendary status
+
+^c< 10P 10M > who sort quest^n
+
+Lists the questing characters by status.
+

@@ -1,0 +1,11 @@
+CRACK
+
+Usage: ^gCRACK <credstick>^n
+
+This command can be used to crack the security of a credstick which has been
+personalized by someone else.  If successful, the credstick is
+depersonalized, and can be activated by anyone. It uses your electronics
+skill.
+
+^WSee Also: ACTIVATE, CREDSTICKS, TYPE^n
+

@@ -1,0 +1,25 @@
+PRIORITIES
+
+All players have 5 priority slots, labelled from A to E (highest to lowest,
+respectively), and 5 priorities: attributes, magic, race, resources, skills.
+
+^bAttributes/Skills:^n
+The higher these are placed, the more attribute/skill points you will have
+when you begin the game.
+
+^bMagic:^n
+Spell casters (^Wmages^n and ^Wshamans^n) must have magic as their highest
+available priority (A for humans, B for metahumans).  Adepts have magic as
+their second highest priority (B for humans, C for metahumans).
+
+^bRace:^n
+Humans can have race as any priority, and since it is completely irrelevant,
+it is automatically placed in priority E.  Metahumans, however, must have
+race as priority A.
+
+^bResources:^n
+The higher the slot this is given, the more nuyen and force points you will
+have.  Nuyen is used to purchase starting equipment, and force points are
+used to learn starting spells.
+
+^WSee Also: ATTRIBUTES^n

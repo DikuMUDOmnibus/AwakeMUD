@@ -1,0 +1,10 @@
+PUT
+
+For putting items into containers.
+
+^c< 10P 10M > put bread bag
+< 10P 10M > put all.bread bag
+< 10P 10M > put all chest^n
+
+^WSee Also: GET^n
+

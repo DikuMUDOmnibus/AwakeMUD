@@ -1,0 +1,24 @@
+BOND
+
+Bond has two purposes: to personalize DocWagon modulators or to bond magical
+foci.  Anyone can use this to accomplish the former, and the syntax for doing
+so is:
+
+^gBOND <modulator>^n
+
+Those who follow the hermetic (^Wmages^n) or shamanic (^Wshamans^n) traditions
+can use this command with any types of ^WFoci^n they may have.  In addition,
+adepts may use this to bond only weapon foci.  This will use some karma, the
+amount depending on the type of focus and the level of the focus itself. The
+more powerful the focus, the more expensive it is to bond. Once bonded, the
+two items cannot be detached. To use it:
+
+^gBOND <focus> <spell/category/spirit/weapon>^n
+
+^c< 10P 10M > bond focus "combat sense"^n
+^c< 10P 10M > bond focus sword^n
+^c< 10P 10M > bond focus "earth elemental"^n
+^c< 10P 10M > bond focus combat^n
+
+^WSee Also: MAGES, SHAMANS, FOCI^N
+

@@ -1,0 +1,12 @@
+DEFENSE
+
+Usage: ^gDEFENSE <value>^n
+
+This will assign the specified number of dice from your combat pool
+specifically for defense (the rest is automatically assigned to offense).
+Note that the number of dice you can allocate to the defense pool depends on
+your skill with the weapons you are wielding.  The greater the skill, the
+greater the number of dice that can be assigned to offense.
+
+^WSee Also: POOLS, COMBAT POOL^n
+

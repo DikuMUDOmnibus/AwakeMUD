@@ -1,0 +1,15 @@
+SELL
+
+If you'd like to sell an item to a shopkeeper, trying selling it to them.
+Most ^Wshops^n specialize in what they will buy, so you may have to look
+around to find a buyer for your items.  By default, when you sell something,
+the nuyen will be added to your personalized credstick.  If you would prefer
+to receive cash, then simply insert the word "cash" after sell.
+ 
+Examples:
+ 
+^c< 10P 10M > sell gun         (sell the first gun in your inventory)
+< 10P 10M > sell cash 3 gun    (sell the first three guns in your inventory for cash)^n
+ 
+^WSee Also: SHOPS, BUY, LIST, VALUE^n
+

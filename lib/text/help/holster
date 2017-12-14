@@ -1,0 +1,9 @@
+HOLSTER SHEATH
+Usage: ^gHOLSTER <weapon> <holster>
+       SHEATH <weapon> <sheather>^n
+
+This command is used to place a weapon into a holster/sheath, to
+prepare it for readying and drawing in combat.
+
+^WSee Also: READY, DRAW^n
+

@@ -1,0 +1,12 @@
+OFFER RENT
+
+For use in the receptions of hotels.
+
+Offer makes the receptionist tell you the cost of a room for one night.  Rent
+stores your belongings and exits you from the game.  When you re-enter, you
+will start where you rented.
+
+There is a daily charge for rent
+
+^WSee Also: HOTELS, QUIT^n
+

@@ -1,0 +1,9 @@
+RELEASE
+
+Usage: ^gRELEASE <person> <spell>^n
+
+This command allows ^Wmages^n or ^Wshamans^n to release a sustained spell from a
+person.
+
+^WSee Also: SPELLS, MAGES, SHAMANS^n
+

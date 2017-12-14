@@ -1,0 +1,9 @@
+LOAD
+
+Usage: ^gLOAD <program>^n
+
+This command, useable only by personas, loads a program from storage memory
+into active memory.
+
+^WSee Also: MATRIX, PROGRAMS, RUN
+

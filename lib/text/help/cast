@@ -1,0 +1,34 @@
+CASTING CAST
+
+Usage: ^gCAST [x] 'spell name' [target] [where]^n 
+
+The first value x, before the spell name, determines the force at which the
+spell will be cast.  This may be a number from 1 to the force of the spell
+which has been learned.  Leaving out this argument defaults the spell to the
+maximum force you can cast the spell at.
+
+The last arguments following the spell name determine the target of the spell.
+Objects and people are generally the targets of spells, but the actual target
+is largely determined by the spell category.  However, due to the nature of
+^Wmagic^n, all targets generally have to be seen by the caster.
+
+Several examples follow using a standard combat spell called 'stunbolt'.
+
+^c< 10P 10M > cast 'stunbolt'^n
+This form of casting is valid only during combat because the
+target will default to whoever you are fighting with.  It is useful
+to keep you from accidentally casting the spell at the wrong person
+during combat.
+
+^c< 10P 10M > cast 'stunbolt' sean^n
+This form is standard for casting a spell at a mob and would cast 'stunbolt'
+at the maximum force a player learned the spell at.
+
+^c< 10P 10M > cast 3 'stunbolt' sean north^n
+This form would cast a force 3 'stunbolt' at Sean, who is in a visible room to
+the north.
+
+^WSee Also: ALIAS, CREATE, LEARN, MAGIC, SPELLS^n
+^WFor heal spell see: "help HEAL"^n
+^WFor sustained spells see: RELEASE, STATUS^n
+

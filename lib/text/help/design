@@ -1,0 +1,13 @@
+DESIGN
+
+Usage: ^gDESIGN <program>^n
+
+This command creates a program design which helps with your
+programming tests later in the development cycle. This takes
+a number of hours equal to the program rating multiplied by
+the program size multiplier. You must have the program
+installed on a desktop computer and be sitting in the room
+to use this. You must also have the applicable program
+design skill.
+
+^WSee Also: CREATE, PROGRAM, UTILITIES^n

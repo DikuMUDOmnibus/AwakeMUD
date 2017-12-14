@@ -1,0 +1,8 @@
+UNATTACH
+
+Usage: ^gUNATTACH <accesory> <weapon>^n
+
+This allows you to remove an accessory from a weapon. 
+
+^WSee Also: ATTACH^n
+

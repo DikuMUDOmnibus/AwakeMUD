@@ -1,0 +1,32 @@
+Welcome to AwakeMUD - The first Shadowrun-based Diku Public Codebase.
+The game mechanics are set to work according to the Shadowrun Second
+Edition rules.
+
+Basically this version of AwakeMUD is works on these known systems:
+
+Requirements:
+32 MB RAM
+50 MB hard disk space
+glibc 2.1 to current (libc6)
+
+Red Hat 5.1-2, 6.x
+Mandrake 6.x, 7.x 
+SuSE 6.x
+Debian 2.1, 2.2, woody
+Slackware 7, using kernel 2.4.x (my home box)
+I am pretty sure it will run on Slackware 7+ any kernel version... but you
+never can be sure...
+FreeBSD, when using gnu make
+(might have to make some hacks.  AwakeMUD originally ran on FreeBSD 3.?
+however, it moved to a linux box and was modified a bit.)
+
+The autorun script is designed to run AwakeMUD under gdb for debugging purposes.
+Changes to the script can be made easily to disable this.
+
+The /doc/CircleMUD3 folder is set aside to store the original Circle MUD 3.0
+Documents that came with the version of Circle 3 that AwakeMUD is based on.
+ 
+Anywho, I am gonna work my ass off to make sure this thing stays well
+documented.  Don't blame me for the code being commented poorly however, as
+that was the coders' work not mine.
+

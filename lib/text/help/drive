@@ -1,0 +1,8 @@
+DRIVE
+
+This command is used when you are inside a vehicle to make it mobile,
+allowing you to drive anywhere roads are present.  Exceptions to this
+are some off-road vehicles, such as 4wd automobiles, and drones.
+
+^WSee Also: VEHICLES, RIG, CONTROL, SUBSCRIBE
+

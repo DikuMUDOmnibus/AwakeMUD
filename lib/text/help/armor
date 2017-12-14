@@ -1,0 +1,22 @@
+ARMOR BALLISTIC IMPACT
+
+Your armor class has two different ratings, ballistic and impact.  With
+ballistic armor you resist damage from high speed and impact weapons such as
+bullets.  Impact armor on the other hand resists low speed attacks resulting
+usually from melee, grenades, arrows, and similar attacks.  Ballistic armor
+offers no help against impact attacks and vice-versa.  Examples of armor
+classes follow:
+
+Impact:                          Ballistic:
+-------                          ----------
+0  -  Basic clothing             0 - Basic clothing
+1  -  Synthetic leather          1 - Armor helmet
+2  -  Real leather               2 - Armor vest
+3  -  Plated clothing            3 - Armor Clothing
+
+Most armor will offer both types of protection, though some will offer only
+one type.  Armor is cumulative, therefore wearing armor clothing which has
+a ballistic rating of 3 and impact of 0, combined with a real leather overcoat
+will create a total rating of 3/2 (ballistic/impact).
+
+^WSee Also: SCORE^n

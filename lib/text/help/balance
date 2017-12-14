@@ -1,0 +1,18 @@
+BANK WITHDRAW DEPOSIT BALANCE TRANSFER
+
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Because all ATMs are connected through the
+Global Matrix, you may use any ATM no matter where your account is held.
+
+^c< 10P 10M > deposit 400
+< 10P 10M > withdraw 1000
+< 10P 10M > balance^n
+
+Using transfer, you can transfer nuyen from your bank account onto a
+credstick that has been personalized by you.
+
+^c< 10P 10M > transfer 1500 credstick    < transfers from account to credstick
+< 10P 10M > transfer 5000 account      < transfers from credstick to account^n
+
+^WSee Also: ACTIVATE, CREDSTICKS^n
+

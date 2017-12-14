@@ -1,0 +1,9 @@
+TITLE
+Sets the title people see on the ^WWHO^n list and when you're in the room with
+them.  You can't use parentheses (the "(" and ")" characters) because those
+are reserved for ^Wflags^n.
+
+Do not abuse this command; if you do, it will be taken from you.
+
+^WSee Also: FLAGS, WHO^n
+

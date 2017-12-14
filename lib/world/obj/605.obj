@@ -1,0 +1,1429 @@
+#60500
+Keywords:	fichetti security 500a light pistol
+Name:	A Fichetti Security 500a
+RoomDesc:$
+A small, large-clip capacity light pistol is sitting on the floor.~
+LookDesc:$
+Commonly used by mid-level corporation security guards, this cheap gun with a
+large clip capacity looks more threatening than it really is. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	550
+[VALUES]
+	Val0:	6
+	Val1:	1
+	Val3:	321
+	Val4:	111
+	Val5:	25
+	Val6:	25
+BREAK
+#60501
+Keywords:	colt american l36 light pistol
+Name:	A Colt American L36
+RoomDesc:$
+One of Colt's light pistols was left on the floor.~
+LookDesc:$
+Manufactured by one of America's finest gun manufacturers, the Colt American
+is a sleek pistol with a decent clip capacity. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	350
+[VALUES]
+	Val0:	6
+	Val1:	1
+	Val3:	321
+	Val4:	111
+	Val5:	11
+	Val6:	11
+BREAK
+#60502
+Keywords:	ceska black scorpion machine pistol
+Name:	A Ceska Black Scorpion Machine Pistol
+RoomDesc:$
+A small, light machine pistol is sitting on the floor.~
+LookDesc:$
+Painfully aware that light pistols didn't pack enough punch to be of a threat
+to anyone, Ceska developed the Black Scorpion, a light pistol with a little
+surprise: burst fire capabilities.  
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	850
+[VALUES]
+	Val0:	6
+	Val1:	1
+	Val3:	325
+	Val4:	111
+	Val5:	35
+	Val6:	35
+BREAK
+#60503
+Keywords:	Ares Predator Heavy Pistol
+Name:	An Ares Predator
+RoomDesc:$
+An Ares Predator heavy pistol was left on the floor.~
+LookDesc:$
+A Shadowrunner's most reliable pistol, the Ares Predator has seen much usage
+among mercenaries and vigilantes due to its heavy power and clip capacity. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	450
+[VALUES]
+	Val0:	9
+	Val1:	2
+	Val3:	321
+	Val4:	111
+	Val5:	15
+	Val6:	15
+BREAK
+#60504
+Keywords:	Colt Manhunter heavy pistol
+Name:	A Colt Manhunter
+RoomDesc:$
+A trusty, short-barreled heavy pistol is on the floor.~
+LookDesc:$
+With a popularity among street mercenaries that rivals the infamous Ares
+Predator, the Colt Manhunter is an equally powerful gun with a slightly larger
+clip capacity and a smaller, more compact size. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	12
+	Cost:	425
+[VALUES]
+	Val0:	9
+	Val1:	2
+	Val3:	321
+	Val4:	111
+	Val5:	16
+	Val6:	16
+BREAK
+#60505
+Keywords:	Ruger Super Warhawk pistol revolver
+Name:	A Ruger Super Warhawk
+RoomDesc:$
+A black revolver is lying on the floor.~
+LookDesc:$
+The more recent addition to Ruger's line of revolvers, the Ruger Super Warhawk
+is a revolver that packs quite a punch. You just have to ask yourself one
+question.. do you feel lucky? Well? Do ya, punk? 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	6
+	Cost:	300
+[VALUES]
+	Val0:	10
+	Val1:	2
+	Val3:	321
+	Val4:	111
+	Val5:	6
+	Val6:	6
+BREAK
+#60506
+Keywords:	colt peacemaker pistol revolver
+Name:	A Colt Peacemaker
+RoomDesc:$
+A white, pearly revolver is sittin' on the floor.~
+LookDesc:$
+Colt's released the old Peacemaker models, updating the gun to modern
+standards. It looks as threatening as ever. Yippiee-ki-yay, motherfucker. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	6
+	Cost:	350
+[VALUES]
+	Val0:	10
+	Val1:	2
+	Val3:	321
+	Val4:	111
+	Val5:	6
+	Val6:	6
+BREAK
+#60507
+Keywords:	ingram smartgun smg submachine
+Name:	An Ingram Smartgun
+RoomDesc:$
+A high-tech submachine gun was left on the floor.~
+LookDesc:$
+The weapon of choice for the sterotypical street samurai, this submachine gun
+comes outfitted with a built in smartlink. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	3.000000
+	Barrier:	12
+	Cost:	1200
+[VALUES]
+	Val0:	7
+	Val1:	2
+	Val3:	325
+	Val4:	115
+	Val5:	32
+	Val6:	32
+	Val9:	20375
+BREAK
+#60508
+Keywords:	uzi iii submachine smg
+Name:	An Uzi III
+RoomDesc:$
+An Uzi submachine gun was left on the floor.~
+LookDesc:$
+The original model was developed by an Israeli military man by the name of
+Uzi: his legacy persists to this day in the form of the Uzi III. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	600
+[VALUES]
+	Val0:	6
+	Val1:	2
+	Val3:	325
+	Val4:	115
+	Val5:	24
+	Val6:	24
+BREAK
+#60509
+Keywords:	sport rifle remington 950
+Name:	a Remington 950 sport rifle
+RoomDesc:$
+A sport rifle lies here on the ground.~
+LookDesc:$
+The 950 is the big sister of the 750; it packs a slightly larger punch and
+also comes with a scope. 
+~
+Type:	Weapon
+WearFlags:	1000010000000000001
+ExtraFlags:	1000000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	5.000000
+	Barrier:	4
+	Cost:	1400
+[VALUES]
+	Val0:	9
+	Val1:	3
+	Val3:	323
+	Val4:	112
+	Val5:	5
+	Val6:	5
+	Val7:	627
+BREAK
+#60510
+Keywords:	enfield shotgun as-7
+Name:	an Enfield AS-7
+RoomDesc:$
+An Enfield shotgun leans against a wall.~
+LookDesc:$
+A typical double-barrel shotgun.
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000000
+AffFlags:	0
+Material:	metal
+Allergy:	iron
+[POINTS]
+	Weight:	4.000000
+	Barrier:	8
+	Cost:	1150
+[VALUES]
+	Val0:	8
+	Val1:	3
+	Val3:	324
+	Val4:	113
+	Val5:	10
+	Val6:	10
+	Val9:	-1
+BREAK
+#60511
+Keywords:	shotgun defiance t-250
+Name:	a Defiance T-250
+RoomDesc:$
+A pump action shotgun lies here.~
+LookDesc:$
+The Defiance T-250 is a popular shotgun among street punks everywhere. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	3.000000
+	Barrier:	6
+	Cost:	500
+[VALUES]
+	Val0:	10
+	Val1:	3
+	Val3:	324
+	Val4:	113
+	Val5:	5
+	Val6:	5
+	Val9:	-1
+BREAK
+#60512
+Keywords:	combat axe steel
+Name:	A steel combat axe
+RoomDesc:$
+A combat axe is resting against a nearby wall.~
+LookDesc:$
+A hefty looking, one edged combat axe with a tip for thrusting and a blunt
+edge for bashing. This wicked looking piece of steel looks like it would make
+quite a mess when used.. 
+~
+Type:	Weapon
+WearFlags:	1000010000000000001
+ExtraFlags:	1001000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	4.000000
+	Barrier:	16
+	Cost:	750
+[VALUES]
+	Val1:	3
+	Val3:	309
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60513
+Keywords:	katana
+Name:	A katana
+RoomDesc:$
+A generic looking katana is resting against a wall.~
+LookDesc:$
+Just a normal looking, cheaply manufactured katana. The blade is sharpened by
+a machine, and the sword manufacturer probably cranks these out by the
+thousands every day. Nothing spectacular about it. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	1000
+[VALUES]
+	Val1:	2
+	Val2:	3
+	Val3:	303
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60514
+Keywords:	thin steel fencing foil rapier
+Name:	A thin, steel rapier
+RoomDesc:$
+A fencing foil is resting against a nearby wall.~
+LookDesc:$
+With a flexible steel blade designed for thrusting instead of stabbing, this
+graceful, rarely seen weapon represents an era that has long past. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	8
+	Cost:	1000
+[VALUES]
+	Val1:	2
+	Val2:	2
+	Val3:	311
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60515
+Keywords:	survival knife
+Name:	a survival knife
+RoomDesc:$
+A common survival knife lies here.~
+LookDesc:$
+Its blade is sharp, although it is quite small.  Still, it's better than
+your fists (unless you have titanium bone lacing, of course).
+~
+Type:	Weapon
+WearFlags:	110000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	1
+	Cost:	450
+[VALUES]
+	Val1:	1
+	Val2:	2
+	Val3:	311
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60516
+Keywords:	two handed sword
+Name:	a two-handed sword
+RoomDesc:$
+A big sword lies here.~
+LookDesc:$
+This sword is made of iron and needs both hands to be wield due to its size. 
+~
+Type:	Weapon
+WearFlags:	1000010000000000001
+ExtraFlags:	1001000000000
+AffFlags:	0
+Material:	metal
+Allergy:	iron
+[POINTS]
+	Weight:	11.000000
+	Barrier:	6
+	Cost:	3000
+[VALUES]
+	Val1:	2
+	Val2:	4
+	Val3:	303
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+	Val7:	-1
+	Val8:	-1
+	Val9:	-1
+BREAK
+#60517
+Keywords:	baton stun
+Name:	a stun baton
+RoomDesc:$
+A standard-style stun baton sways on the ground.~
+LookDesc:$
+A small club infused with a not-so-mild electric current.
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	wood
+[POINTS]
+	Weight:	1.000000
+	Barrier:	3
+	Cost:	755
+[VALUES]
+	Val0:	6
+	Val1:	3
+	Val3:	314
+	Val4:	106
+	Val5:	-1
+	Val7:	-1
+	Val8:	-1
+	Val9:	-1
+BREAK
+#60518
+Keywords:	wooden staff
+Name:	a wooden staff
+RoomDesc:$
+A wooden staff is lying here.~
+LookDesc:$
+A large, heavy stick.  Popular with magicians for that traditional look. 
+~
+Type:	Weapon
+WearFlags:	110000000000001
+ExtraFlags:	1001000000000
+AffFlags:	0
+Material:	wood
+[POINTS]
+	Weight:	2.000000
+	Barrier:	4
+	Cost:	50
+[VALUES]
+	Val1:	2
+	Val2:	2
+	Val3:	307
+	Val4:	106
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60519
+Keywords:	black wooden nightstick
+Name:	A black wooden nightstick
+RoomDesc:$
+A nightstick is here, waiting to club someone.~
+LookDesc:$
+A sleek black nightstick, used by law enforcement to subdue anyone that ticks
+them off. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	wood
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	75
+[VALUES]
+	Val1:	2
+	Val2:	1
+	Val3:	305
+	Val4:	106
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60520
+Keywords:	wooden nunchaku
+Name:	A wooden pair of nunchaku
+RoomDesc:$
+Some nunchaku have been left on the floor.~
+LookDesc:$
+Made famous by Bruce Lee, these babies look like they can bring people into a
+world of hurt. 
+~
+Type:	Weapon
+WearFlags:	10000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	wood
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	100
+[VALUES]
+	Val1:	2
+	Val2:	1
+	Val3:	305
+	Val4:	105
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60521
+Keywords:	coiled leather whip
+Name:	A coiled leather whip
+RoomDesc:$
+A leather whip has been neatly coiled and left on the floor.~
+LookDesc:$
+A nasty looking whip, this looks like it would sting quite a bit if used
+correctly, or incorrectly for that matter.. 
+~
+Type:	Weapon
+WearFlags:	110100000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	leather
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	300
+[VALUES]
+	Val1:	1
+	Val3:	302
+	Val4:	105
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60522
+Keywords:	sheath leather sword worn
+Name:	a worn ^yleather^n sword sheath
+RoomDesc:$
+A leather sword sheath has been propped up against the wall.~
+LookDesc:$
+This leather sheath seems perfect for concealing a deadly edged weapon. Keep
+in mind, though, that security frowns upon not just weapons, but also weapon
+containers. 
+~
+Type:	Holster
+WearFlags:	1000100100000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	leather
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	200
+[VALUES]
+	Val0:	1
+BREAK
+#60523
+Keywords:	armor clothing
+Name:	Armor Clothing
+RoomDesc:$
+A pile of padded clothing is on the floor.~
+LookDesc:$
+Looks like clothing that you'd normally wear outside, except the exterior is
+noticably lined with protective material. 
+~
+Type:	Worn
+WearFlags:	100000000000001001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	1.000000
+	Barrier:	4
+	Cost:	500
+[VALUES]
+	Val5:	3
+	Val7:	12
+BREAK
+#60524
+Keywords:	armor jacket
+Name:	Armor Jacket
+RoomDesc:$
+An armored jacket is lying in a crumpled heap.~
+LookDesc:$
+A heavily padded jacket, this looks like it offers pretty good protection, at
+the expense of being incredibly noticable and bulky. 
+~
+Type:	Worn
+WearFlags:	10000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	900
+[VALUES]
+	Val1:	2
+	Val2:	2
+	Val3:	2
+	Val4:	4
+	Val5:	5
+	Val6:	3
+	Val7:	8
+BREAK
+#60525
+Keywords:	armored vest
+Name:	Armored Vest
+RoomDesc:$
+A bulletproof vest is on the floor.~
+LookDesc:$
+A vest of kevlar for providing basic ballistic protection. 
+~
+Type:	Worn
+WearFlags:	100000000000001001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	2.000000
+	Barrier:	12
+	Cost:	600
+[VALUES]
+	Val1:	4
+	Val2:	2
+	Val3:	4
+	Val5:	4
+	Val6:	3
+	Val7:	12
+BREAK
+#60526
+Keywords:	Secure long coat trenchcoat
+Name:	A Secure Long Coat
+RoomDesc:$
+An armored trenchcoat is on the floor.~
+LookDesc:$
+SecureTech's mission is to create a line of protective clothing that doesn't
+look like protective clothing. This long coat looks like a regular black
+trenchcoat, but the interior is lined with layers of kevlar. 
+~
+Type:	Worn
+WearFlags:	10000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	2.000000
+	Barrier:	12
+	Cost:	650
+[VALUES]
+	Val1:	4
+	Val2:	4
+	Val3:	4
+	Val4:	4
+	Val5:	4
+	Val6:	2
+	Val7:	12
+BREAK
+#60527
+Keywords:	form fitting armor II
+Name:	Form-Fitting Armor II
+RoomDesc:$
+A form-fitting armored shirt is on the floor.~
+LookDesc:$
+Designed to mold and adapt to the body of the person who wears it, the form
+fitting suit provides reasonable protection, and can be worn underneath any
+possible type of clothing. 
+~
+Type:	Worn
+WearFlags:	100000000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	1.000000
+	Barrier:	4
+	Cost:	250
+[VALUES]
+	Val5:	3
+	Val6:	1
+	Val7:	14
+BREAK
+#60528
+Keywords:	armor partial heavy
+Name:	partial heavy armor
+RoomDesc:$
+Some heavy armor has been left here.~
+LookDesc:$
+This armor is styled to intimidate as well as to protect.  The torso is
+covered by rigid plates attached to an undersuit with a kevlar weave. 
+~
+Type:	Worn
+WearFlags:	10000001001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	adv. plastics
+[POINTS]
+	Weight:	16.000000
+	Barrier:	16
+	Cost:	10000
+[VALUES]
+	Val5:	6
+	Val6:	4
+	Val7:	3
+BREAK
+#60529
+Keywords:	thermo thermographic goggles set pair
+Name:	a pair of thermographic goggles
+RoomDesc:$
+A set of thermographic goggles is here.~
+LookDesc:$
+It gives the wearer thermographic vision, similar to that of trolls and
+dwarves. ~
+Type:	Worn
+WearFlags:	1000000000000001
+ExtraFlags:	1000000000
+AffFlags:	1000000000
+Material:	plastic
+[POINTS]
+	Weight:	3.000000
+	Barrier:	1
+	Cost:	1200
+BREAK
+#60530
+Keywords:	phone mobile cell
+Name:	a cellular phone
+RoomDesc:$
+Someone has left their phone here.~
+LookDesc:$
+This is an oldstyle phone, with only microphone and speakers, no vid-screen.
+~
+Type:	Phone
+WearFlags:	1
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	electronics
+Allergy:	plastic
+[POINTS]
+	Weight:	0.000000
+	Barrier:	4
+	Cost:	1000
+[VALUES]
+	Val0:	1
+BREAK
+#60531
+Keywords:	radio simple
+Name:	a radio
+RoomDesc:$
+A simple radio has been tossed away.~
+LookDesc:$
+A small black box, filled with electronic circuitry connected to a
+cheap frequency-response speaker.
+~
+Type:	Radio
+WearFlags:	100000000000001
+ExtraFlags:	0
+AffFlags:	0
+Material:	plastic
+Allergy:	plastic
+[POINTS]
+	Weight:	1.000000
+	Barrier:	4
+	Cost:	250
+[VALUES]
+	Val1:	2
+	Val2:	2
+BREAK
+#60532
+Keywords:	basic electronics kit
+Name:	a basic electronics kit
+RoomDesc:$
+A small toolkit of electronic equipment is sitting on the floor.~
+LookDesc:$
+Various tools and gadgets that can help you when dealing with electronic
+devices. 
+~
+Type:	Kit
+WearFlags:	100000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	1000
+[VALUES]
+	Val0:	1
+	Val1:	2
+BREAK
+#60533
+Keywords:	harness climbing
+Name:	a climbing harness
+RoomDesc:$
+A climbing harness is wrapped up into a neat bundle.~
+LookDesc:$
+A basic climbing harness. If you wear it, climbing up and down areas might
+prove to be a little easier. 
+~
+Type:	Climbing gear
+WearFlags:	10000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	75
+[VALUES]
+	Val0:	2
+BREAK
+#60534
+Keywords:	backpack plain black
+Name:	a plain black backpack
+RoomDesc:$
+A black backpack lies here.~
+LookDesc:$
+Just your standard black backpack, with straps along the back and several
+zippered compartments for storing things in. 
+~
+Type:	Container
+WearFlags:	1000100000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	1.000000
+	Barrier:	8
+	Cost:	20
+[VALUES]
+	Val0:	20
+	Val1:	1
+	Val2:	-1
+BREAK
+#60535
+Keywords:	neophyte guild duffel bag
+Name:	A Neophyte Guild duffelbag
+RoomDesc:$
+A plain grey duffelbag is leaning against a wall.~
+LookDesc:$
+A duffel bag that you can sling over your shoulder. 
+~
+Type:	Container
+WearFlags:	1000100000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	fabric
+[POINTS]
+	Weight:	1.000000
+	Barrier:	8
+	Cost:	20
+[VALUES]
+	Val0:	20
+	Val1:	1
+	Val2:	-1
+BREAK
+#60536
+Keywords:	bowie knife
+Name:	A Bowie Knife
+RoomDesc:$
+A common survival knife lies here.~
+LookDesc:$
+A wicked looking blade that looks like it'd be able to sever limbs with a
+single swipe. 
+~
+Type:	Weapon
+WearFlags:	110000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	1
+	Cost:	450
+[VALUES]
+	Val1:	1
+	Val2:	2
+	Val3:	311
+	Val4:	103
+	Val5:	-1
+	Val6:	-1
+BREAK
+#60537
+Keywords:	small medkit
+Name:	A small medkit
+RoomDesc:$
+A small white box with a red cross on it is lying on the floor.~
+LookDesc:$
+Filled with various medical supplies and bandages. 
+~
+Type:	Kit
+WearFlags:	100000000000001
+ExtraFlags:	1000000000
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	200
+[VALUES]
+	Val1:	2
+BREAK
+#60538
+Keywords:	clip 25 pistol
+Name:	a 25-bullet pistol clip
+RoomDesc:$
+A large pistol clip has been discarded.~
+LookDesc:$
+A non-standard pistol clip, mainly used by Fichetti guns.
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	0.000000
+	Barrier:	6
+	Cost:	50
+[VALUES]
+	Val0:	25
+	Val1:	21
+BREAK
+#60539
+Keywords:	clip 11 pistol
+Name:	an 11-bullet pistol clip
+RoomDesc:$
+An uncommon pistol clip rests on the ground.~
+LookDesc:$
+A pistol clip, capable of holding 11 bullets.
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	22
+[VALUES]
+	Val0:	11
+	Val1:	21
+BREAK
+#60540
+Keywords:	clip 15 pistol
+Name:	a 15-bullet pistol clip
+RoomDesc:$
+A standard pistol clip sits on the floor.~
+LookDesc:$
+A pistol clip, capable of holding 15 bullets.
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	30
+[VALUES]
+	Val0:	15
+	Val1:	21
+BREAK
+#60541
+Keywords:	clip 16 pistol
+Name:	a 16-bullet pistol clip
+RoomDesc:$
+An ammunition clip for a pistol lies here.~
+LookDesc:$
+A pistol clip, capable of holding 16 bullets.
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	32
+[VALUES]
+	Val0:	16
+	Val1:	21
+BREAK
+#60542
+Keywords:	clip 6 pistol speedloader
+Name:	a 6-bullet speedloader
+RoomDesc:$
+A small speedloader lies here.~
+LookDesc:$
+A six-shot speedloader, for rapid reloading of revolvers. 
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	12
+[VALUES]
+	Val0:	6
+	Val1:	21
+BREAK
+#60543
+Keywords:	32-bullet smg clip
+Name:	a 32-bullet smg clip
+RoomDesc:$
+A long smg clip is lying here.~
+LookDesc:$
+It's a long clip destined for use in a submachine gun. 
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	2.000000
+	Barrier:	4
+	Cost:	48
+[VALUES]
+	Val0:	32
+	Val1:	25
+BREAK
+#60544
+Keywords:	24-bullet submachine gun clip
+Name:	a 24-bullet submachine gun clip
+RoomDesc:$
+A long clip is lying here.~
+LookDesc:$
+It's a long clip for use with a machine pistol. 
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	0.000000
+	Barrier:	4
+	Cost:	36
+[VALUES]
+	Val0:	24
+	Val1:	25
+BREAK
+#60545
+Keywords:	35-bullet machine pistol clip
+Name:	a 35-bullet machine pistol clip
+RoomDesc:$
+A long machine pistol clip is here.~
+LookDesc:$
+Specially designed for usage with burst-fire pistols. 
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	4
+	Cost:	35
+[VALUES]
+	Val0:	35
+	Val1:	25
+BREAK
+#60546
+Keywords:	5-bullet rifle clip
+Name:	a 5-bullet rifle clip
+RoomDesc:$
+A short rifle clip lies here.~
+LookDesc:$
+It's a small clip for use in a rifle. 
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	0.000000
+	Barrier:	4
+	Cost:	8
+[VALUES]
+	Val0:	5
+	Val1:	23
+BREAK
+#60547
+Keywords:	clip 10 shell
+Name:	a 10-shell clip
+RoomDesc:$
+A shotgun clip has been discarded.~
+LookDesc:$
+A shotgun clip, capable of holding 10 shells.
+~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	20
+[VALUES]
+	Val0:	10
+	Val1:	24
+BREAK
+#60548
+Keywords:	5-shell clip
+Name:	a 5-shell clip
+RoomDesc:$
+A 5-shell clip sits here.~
+LookDesc:$
+You see 5 shells in a narrow tube which is inserted into the shotgun.~
+Type:	Gun Clip
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	brick
+Allergy:	iron
+[POINTS]
+	Weight:	2.000000
+	Barrier:	3
+	Cost:	10
+[VALUES]
+	Val0:	5
+	Val1:	24
+BREAK
+#60550
+Keywords:	worn used leather holster
+Name:	A worn, used ^yleather^N holster
+RoomDesc:$
+A beat up leather holster was thrown on the floor.~
+LookDesc:$
+Leather's peeling away and it looks like it'll fall apart any minute now, but
+it's a functional holster. 
+~
+Type:	Holster
+WearFlags:	10000000100000000001
+ExtraFlags:	0
+AffFlags:	0
+Material:	leather
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	100
+BREAK
+#60551
+Keywords:	vent gas improved
+Name:	an improved gas vent II
+RoomDesc:$
+An unattached gas vent lies here.~
+LookDesc:$
+A small device used to lessen recoil.
+~
+Type:	Gun Accessory
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	metal
+Allergy:	iron
+[POINTS]
+	Weight:	1.000000
+	Barrier:	4
+	Cost:	650
+[VALUES]
+	Val0:	1
+	Val1:	3
+	Val2:	-2
+BREAK
+#60552
+Keywords:	laser sight attachable
+Name:	an attachable ^rlaser^N sight
+RoomDesc:$
+A laser sight is on the floor.~
+LookDesc:$
+A laser sight, for increased accuracy. 
+~
+Type:	Gun Accessory
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	100000000000000
+Material:	electronics
+[POINTS]
+	Weight:	1.000000
+	Barrier:	6
+	Cost:	500
+[VALUES]
+	Val0:	2
+	Val1:	2
+BREAK
+#60553
+Keywords:	electronic imaging scope
+Name:	an electronic imaging scope
+RoomDesc:$
+An electronic scope is getting dirt on its sensitive lens.~
+LookDesc:$
+Looks like you can pick out targets from longer distances if you have this
+attached to your firearm. 
+~
+Type:	Gun Accessory
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	100000000000000000000
+Material:	electronics
+[POINTS]
+	Weight:	2.000000
+	Barrier:	8
+	Cost:	800
+[VALUES]
+	Val1:	2
+BREAK
+#60554
+Keywords:	firearm smartlink accessory
+Name:	A firearm smartlink accessory
+RoomDesc:$
+A smartlink accessory for a firearm is on the floor.~
+LookDesc:$
+When attached to a modified firearm, the user will be able to link his
+smartlink cyberware with his weapon, enabling increased accuracy. 
+~
+Type:	Gun Accessory
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	electronics
+[POINTS]
+	Weight:	2.000000
+	Barrier:	4
+	Cost:	750
+[VALUES]
+	Val0:	2
+	Val1:	1
+BREAK
+#60555
+Keywords:	ration bar
+Name:	a ration bar
+RoomDesc:$
+A preserved ration bar sits here.~
+LookDesc:$
+While it doesn't have much taste, it will sustain you for some time.
+~
+Type:	Food
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	2.000000
+	Barrier:	1
+	Cost:	10
+[VALUES]
+	Val0:	10
+BREAK
+#60556
+Keywords:	canteen water
+Name:	a canteen
+RoomDesc:$
+A canteen has been discarded.~
+LookDesc:$
+Made of a special material to keep its contents cool.
+~
+Type:	Liq Container
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	adv. plastics
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	5
+[VALUES]
+	Val0:	15
+	Val1:	15
+BREAK
+#60557
+Keywords:	hamburger burger
+Name:	a big, fresh-grilled hamburger
+RoomDesc:$
+A delicious looking hamburger is sitting around, not being eaten.~
+LookDesc:$
+Lettuce. Tomato. Onions. Melted cheese. Grilled sesame bun. Double slabs of
+grilled beef patty. Mmmm.. 
+~
+Type:	Food
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	organic
+[POINTS]
+	Weight:	0.500000
+	Barrier:	1
+	Cost:	20
+[VALUES]
+	Val0:	20
+BREAK
+#60558
+Keywords:	strawberry milkshake
+Name:	A ^Rstrawberry^N milkshake
+RoomDesc:$
+A strawberry milkshake sitting on a table makes your mouth salivate.~
+LookDesc:$
+Fresh strawberries blended with icecream and milk. 
+~
+Type:	Liq Container
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	glass
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	10
+[VALUES]
+	Val0:	20
+	Val1:	20
+	Val2:	7
+BREAK
+#60559
+Keywords:	pancakes plate homemade
+Name:	A plate of homemade pancakes
+RoomDesc:$
+A plate of pancakes was left on a nearby table.~
+LookDesc:$
+Warm, fluffy pancakes drenched with syrup and topped with fresh blueberries. 
+~
+Type:	Food
+WearFlags:	1
+ExtraFlags:	0
+AffFlags:	0
+Material:	organic
+[POINTS]
+	Weight:	1.000000
+	Barrier:	1
+	Cost:	20
+[VALUES]
+	Val0:	20
+BREAK
+#60598
+Keywords:	skeleton
+Name:	A skeleton wrapped in tattered cloth
+RoomDesc:$
+A white skeleton is in the corner of the room, swarming with rats.~
+LookDesc:$
+The clothing the skeleton barely makes out the world "Ricky's Eatery". Looks
+like the skeleton used to be Ricky's assistant, and it looks like he failed to
+bring up some food.. 
+~
+Type:	Other
+WearFlags:	0
+ExtraFlags:	0
+AffFlags:	0
+Material:	paper
+[POINTS]
+	Weight:	2.000000
+	Barrier:	1
+	Cost:	0
+BREAK
+#60599
+Keywords:	ricky crate food wooden
+Name:	Ricky's crate of food
+RoomDesc:$
+A large wooden crate of food is here.~
+LookDesc:$
+It's sealed shut, and the rats haven't broken into it. This must be what Ricky
+was looking for. 
+~
+Type:	Other
+WearFlags:	1
+ExtraFlags:	1000000100
+AffFlags:	0
+Material:	wood
+[POINTS]
+	Weight:	5.000000
+	Barrier:	8
+	Cost:	0
+BREAK
+END

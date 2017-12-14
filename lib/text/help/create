@@ -1,0 +1,59 @@
+CREATE
+
+Usage: ^gCREATE <mage/shaman/program>^n
+
+Because ^Wmages^n and ^Wshamans^n follow two different paths, both require slightly
+different methods to create a spell.  A ^Wmage^n must know ^Wmagical theory^n and
+can only create a spell in a hermetic library.  A ^Wshaman^n, on the other hand,
+must know shamanic studies and work in a medicine lodge to create a spell.
+The maximum force any spell created can be is determined by the level of
+knowledge either path has.  For example, a ^Wmage^n who was average in ^Wmagical
+theory^n would only be able to create a spell with a maximum force of about
+4.
+
+Once you have met these requirements, you will be taken to a menu system
+which will allow you to design a spell.  Each spell has several parts which
+must be set before the spell formula is valid.  An example spell follows:
+
+^m   Drain: 3S
+1) Spell name: manabolt
+2) Type: Mana
+3) Category: Combat
+4) Force: 6
+5) Target: Ranged
+6) Effects: None
+7) Base Damage: Serious
+q) Quit
+Enter your choice:^n
+
+Menu item 1 obviously allows you to name the spell what you chose.  The
+second menu item will allow you chose between the two types of spells,
+mana or physical.  Mana spells can only target living beings, while physical
+spells can affect anything.  Item 3 allows you to chose between the five
+categories of spells.  The categories are combat, detection, illusion, health,
+and manipulation.  Each spell category determines what effects a spell may
+include.  Menu item 4 lets you set the force of the spell, up to a maximum of
+your skill in ^Wmagical theory^n (if you're a ^Wmage^n) or shamanic studies (if
+you're a ^Wshaman^n).  Item 5 lets you determine what target the spell may be
+cast at. There are four basic targets:  caster, touch, ranged, and area.
+The first means the spell can only be cast on the caster.  Touch is
+designed for spell in which a touch is required.  Ranged will target
+anything within sight. Area is similar to ranged in that it will target
+anything in sight, however it will affect an area (such as a group of mobs).
+Item 6 lets you chose the actual effects of the spell (many of which may
+be combined).  As a side note, a combat spell may have NO effects as its
+category determines what its primary effect is (damage).  Adding effects
+to a combat spell will mainly add extra effects beyond damage to the
+spell, such as fire, ice, etc.  Finally, Item 7 (which is only available
+for combat spells) determines the base damage for the spell.
+
+Once these features have been determined by you, quitting will allow you
+to write the spell as a formula which may then be learned.
+
+To create a program you only need to follow the simple menu. This will
+leave you with a program design which must be installed on a desktop
+computer. You cannot create a program with a rating higher than you
+computer skill.
+
+^WSee Also: CAST, LEARN, MAGIC, SPELLS, DESIGN, PROGRAM, UTILITIES^n
+

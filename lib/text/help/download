@@ -1,0 +1,14 @@
+DOWNLOAD UPLOAD LOAD
+
+Test: FILES
+Utility: READ/WRITE
+Usage: ^gDOWNLOAD <file>
+       UPLOAD <file>
+       LOAD <file>^n
+
+These matrix commands are used to transfer files between your
+^Wcyberdeck^n and the matrix. You cannot ^Wrun^n a program before
+you have loaded it into your deck's active memory.
+
+^WSee Also: SOFTWARE, LOCATE, RUN, MATRIX, UTILITIES, PROGRAMS, ANALYZE, DISARM, DECRYPT^n
+
